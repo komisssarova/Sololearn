@@ -1,5 +1,6 @@
 body {
   font-family: arial, sans-serif;
+  background-image: url("https://images.pexels.com/photos/2996305/pexels-photo-2996305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 }
 
 h1 {
@@ -32,13 +33,14 @@ li:first-letter {
 
 .weather-app-wrapper {
   max-width: 600px;
-  margin: 30px auto;
+  margin: 50px auto;
 }
 
 .weather-app {
   padding: 20px;
-  border: 1px solid #dadde1;
+  border: 1px solid rgba(111, 121, 133, 0.747);
   border-radius: 5px;
+  background-image: url("https://images.pexels.com/photos/2996305/pexels-photo-2996305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 }
 
 .overview {
